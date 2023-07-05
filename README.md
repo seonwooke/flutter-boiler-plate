@@ -11,3 +11,7 @@
 * <b>firebase_core</b> : 여러 Firebase 앱에 연결할 수 있는 Firebase Core API를 사용하기 위한 플러그인이다.
 * <b>firebase_auth</b> : Firebase Authentication API를 사용하기 위한 플러그인이다.
 * <b>cloud_firestore</b> : Cloud Firestore API를 사용하기 위한 Flutter 플러그인이다.
+<br>
+<br>
+# Additional Work
+* 파이어베이스 연결 : <https://velog.io/@seonwookkim/Flutter-Ma-Firebase-연동하기-Flutter-3.0>
