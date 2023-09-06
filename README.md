@@ -17,3 +17,5 @@
 <h1> Additional Work </h1>
 
 * 파이어베이스 연결 : <https://velog.io/@seonwookkim/Flutter-Ma-Firebase-연동하기-Flutter-3.0>
+* 로그인 구현 : 이메일 로그인, 구글 로그인
+* 어플리케이션 개발
